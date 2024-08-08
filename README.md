@@ -1,9 +1,9 @@
 ### Bem vindo(a)!
 
-Nesta página você encontrará todos os projetos de desenvolvimento web feito no meu canal do youtube Gprog.
+Nesta página você encontrará todos os projetos de desenvolvimento web feito no meu canal do youtube **Gprog**.
 
 #### Meu canal do YouTube
-[![YouTube](./assets/youtube.svg)](https://www.youtube.com/@GProgOficial)
+<a href="https://www.youtube.com/@GProgOficial" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
 #### Tecnologias que uso
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
