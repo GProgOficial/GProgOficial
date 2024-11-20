@@ -1,6 +1,6 @@
 ### ✨ Bem vindo(a)!
 
-Nesta página você encontrará todos os projetos de Desenvolvimento Web feitos no meu canal do youtube **GProg**.
+Nesta página você encontrará todos os projetos de Desenvolvimento Web e Front-end feitos no meu canal do youtube **GProg**.
 
 #### 🔗 Meu canal do YouTube
 <a href="https://www.youtube.com/@GProgOficial" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
